@@ -4,7 +4,6 @@ Bridging the Gap Between Talent and Opportunity.
 
 SkillBridge is a modern, full-stack freelance marketplace designed to connect clients with talented freelancers in a seamless and real-time environment. From project posting and bidding to a dedicated project workspace with live chat, SkillBridge provides a complete ecosystem for managing freelance work from start to finish.
 
-![SkillBridge Screenshot](https://i.imgur.com/r33a277.png)
 *<p align="center">Replace this with a screenshot of your application's dashboard.</p>*
 
 ---
