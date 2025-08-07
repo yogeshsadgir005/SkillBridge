@@ -96,14 +96,4 @@ Make sure you have the following installed on your machine:
     ```
 
 Your application should now be running, with the frontend at `http://localhost:5173` and the backend at `http://localhost:4000`.
-
----
-
-## 🗺️ Roadmap
-
-Here are some features planned for future development:
-* [ ] **User Ratings & Reviews:** Allow clients and freelancers to rate and review each other after a project is completed.
-* [ ] **Enhanced User Profiles:** Public-facing profiles for freelancers to showcase their portfolio.
-
-
 ---
