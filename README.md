@@ -2,8 +2,6 @@
 
 Bridging the Gap Between Talent and Opportunity.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 SkillBridge is a modern, full-stack freelance marketplace designed to connect clients with talented freelancers in a seamless and real-time environment. From project posting and bidding to a dedicated project workspace with live chat, SkillBridge provides a complete ecosystem for managing freelance work from start to finish.
 
 ![SkillBridge Screenshot](https://i.imgur.com/r33a277.png)
